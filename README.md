@@ -1,8 +1,8 @@
 <h1 align="center"> Welcome to my GitHub! 🚀 </h1>
 
 ### About Me:
-🔹 Front-end Developer from [Your City]  
-🔹 Specializing in React.js, Next.js, TailwindCSS  
+🔹 .Net developer   
+🔹 Specializing in .net core, ms sql, and clean architecture  
 
 ### 🚀 Currently Working On:
 📌 **[Bookify](https://mybookify.netlify.app/)** – Online documentation available at **[mybookify.netlify.app](https://mybookify.netlify.app/)**  
