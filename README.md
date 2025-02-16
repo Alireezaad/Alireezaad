@@ -1,5 +1,6 @@
-<h1 align="center"> Welcome my friend! 🚀 </h1>
-
+  <h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=600&height=100&lines=Hello+My+Friend;" alt="Typing SVG" />
+  </h1>
 ### About Me:
 🔹 .Net developer   
 🔹 Specializing in .net core, ms sql, and clean architecture  
