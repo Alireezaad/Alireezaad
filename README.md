@@ -9,13 +9,7 @@
 📌 **[Bookify](https://mybookify.netlify.app/)** – Online documentation available at **[mybookify.netlify.app](https://mybookify.netlify.app/)**  
 
 ### ⚡ Tech Stack:
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white), ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Microservices](https://img.shields.io/badge/Microservices-ff7f50?logo=micro-dot-blog)  
-![WebSphere](https://img.shields.io/badge/WebSphere-0091D1?logo=ibm&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST-02569B?logo=swagger&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  ![Microservices](https://img.shields.io/badge/Microservices-ff7f50?logo=micro-dot-blog)  ![WebSphere](https://img.shields.io/badge/WebSphere-0091D1?logo=ibm&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  ![REST API](https://img.shields.io/badge/REST-02569B?logo=swagger&logoColor=white)  
 
 ### 📊 GitHub Stats:
 ![Alireezaad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alireezaad&show_icons=true&theme=dark)
