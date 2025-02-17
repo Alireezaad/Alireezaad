@@ -4,7 +4,7 @@
   
 ### About Me:
 🔹 .NET Developer with expertise in backend and cloud solutions  
-🔹 Specializing in **C#, .NET Core, SQL Server, Docker, WebSphere, and Clean architecture**  
+🔹 Specializing in **C#, .NET Core, SQL Server, Docker, and Clean architecture**  
 
 ### 🚀 Currently Working On:
 📌 **[Bookify](https://mybookify.netlify.app/)** – Online documentation available at **[mybookify.netlify.app](https://mybookify.netlify.app/)**  
